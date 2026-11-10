@@ -40,8 +40,8 @@ Estudante de Ciência da Computação na PUC-GO, com foco em desenvolvimento bac
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-S-Ferreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=6A0DAD&text_color=FFFFFF&rank_icon=github&locale=pt-br" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-S-Ferreira&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&layout=donut&locale=pt-br" height="195"/>
+  <img src="https://github-readme-stats-bay-chi-92.vercel.app/api?username=Guilherme-S-Ferreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=6A0DAD&text_color=FFFFFF&rank_icon=github&locale=pt-br" height="195"/>
+  <img src="https://github-readme-stats-bay-chi-92.vercel.app/api/top-langs/?username=Guilherme-S-Ferreira&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&layout=donut&locale=pt-br" height="195"/>
 </p>
 
 <div align="center">
